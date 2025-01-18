@@ -1,7 +1,7 @@
 import React from 'react';
 import './Skill.css';
 import { Element } from 'react-scroll';
-import LinearProgress from '@material-ui/core/linearProgress';
+import LinearProgress from '@material-ui/core/LinearProgress';
 
 const Skill = () => {
     return (
